@@ -11,7 +11,8 @@ cd .\pyknow\
 
 python setup.py install
 
+cd ..
 
 # Run TestCovid:
 
-python .\covid19.py
+python .\efinal.py
